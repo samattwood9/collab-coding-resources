@@ -21,5 +21,6 @@ Sources and further reading/resources for guest lecture on collaborative coding.
 - :page_with_curl: [An awesome-list with many more code review resources](https://github.com/joho/awesome-code-review)
 - :octocat: [Example of automated standards at the AI Foundry](https://github.com/samattwood9/streamlit-starter-tour)
 - :page_with_curl: [SOLID principles](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
+- :page_with_curl: [Pair programming vs. Code reviews](https://blog.codinghorror.com/pair-programming-vs-code-reviews/)
 
 

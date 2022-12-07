@@ -20,5 +20,6 @@ Sources and further reading/resources for guest lecture on collaborative coding.
 - :book: [OWASP code review guide (focuses on security considerations)](https://owasp.org/www-project-code-review-guide/)
 - :page_with_curl: [An awesome-list with many more code review resources](https://github.com/joho/awesome-code-review)
 - :octocat: [Example of automated standards at the AI Foundry](https://github.com/samattwood9/streamlit-starter-tour)
+- :page_with_curl: [SOLID principles](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
 
 

@@ -1,6 +1,6 @@
-# collab-coding-221207
+# collab-coding-resources
 
-Sources and further reading/resources for guest lecture on collaborative coding.
+Sources and further reading/resources on collaborative coding.
 
 ## Sources
 
